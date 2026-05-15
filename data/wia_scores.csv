@@ -1,0 +1,80 @@
+ADM1_EN,ADM1_PCODE,ADM2_EN,ADM2_PCODE,Water,Sanitation,Hygiene,WASH shock*,Flood impact,Cyclone impact,Water scarcity impact,Extreme temperature impact,Displacement impact,Cholera impact,Violence impact,Flood exposure,Cyclone exposure,Water scarcity exposure,Extreme temperature exposure,Cholera exposure,Vaccination,NTD,Diarrhoea,Acute malnutrition,Chronic malnutrition,Illiteracy,Poverty
+Abyei Region,SS00,Abyei Region,SS0001,0,0,1,1,0,invalid,0,0,1,1,1,1,invalid,1,1,1,0,0,1,1,1,1,1
+Central Equatoria,SS01,Juba,SS0101,0,0,0,1,0,invalid,1,0,0,1,1,1,invalid,0,0,1,0,1,0,1,0,0,0
+Central Equatoria,SS01,Kajo-keji,SS0102,1,0,0,0,0,invalid,1,0,0,0,0,0,invalid,0,0,0,0,1,0,0,0,0,0
+Central Equatoria,SS01,Lainya,SS0103,1,0,0,1,0,invalid,1,1,0,0,0,1,invalid,0,0,0,0,1,0,0,0,0,0
+Central Equatoria,SS01,Morobo,SS0104,1,0,0,1,0,invalid,1,0,0,0,1,1,invalid,0,0,0,1,1,0,0,0,0,1
+Central Equatoria,SS01,Terekeka,SS0105,1,1,1,1,0,invalid,1,1,0,1,0,1,invalid,0,0,1,0,1,0,0,0,1,1
+Central Equatoria,SS01,Yei,SS0106,1,0,0,1,0,invalid,1,0,0,0,1,1,invalid,0,0,0,0,1,0,0,0,0,0
+Eastern Equatoria,SS02,Budi,SS0201,0,1,0,0,0,invalid,1,0,0,1,1,0,invalid,0,0,1,0,0,0,1,0,0,1
+Eastern Equatoria,SS02,Ikotos,SS0202,0,0,1,0,0,invalid,1,0,0,1,0,1,invalid,0,0,1,0,0,1,0,0,0,1
+Eastern Equatoria,SS02,Kapoeta East,SS0203,1,1,1,0,0,invalid,1,0,0,1,0,0,invalid,0,0,1,1,0,0,0,0,1,1
+Eastern Equatoria,SS02,Kapoeta North,SS0204,1,1,0,1,1,invalid,1,0,0,0,0,0,invalid,0,0,0,0,0,0,0,0,1,1
+Eastern Equatoria,SS02,Kapoeta South,SS0205,0,1,0,0,0,invalid,1,0,1,1,0,0,invalid,0,0,1,1,0,0,0,0,1,1
+Eastern Equatoria,SS02,Lafon,SS0206,0,1,1,1,1,invalid,1,0,1,1,0,1,invalid,0,0,1,0,1,0,0,0,0,1
+Eastern Equatoria,SS02,Magwi,SS0207,0,0,0,1,0,invalid,1,0,0,1,0,1,invalid,0,0,1,0,1,0,0,0,0,1
+Eastern Equatoria,SS02,Torit,SS0208,1,0,0,1,0,invalid,1,1,0,1,1,1,invalid,0,0,1,0,1,1,0,0,0,0
+Jonglei,SS03,Akobo,SS0301,1,1,1,1,0,invalid,1,0,0,1,1,1,invalid,0,0,1,0,0,1,1,1,1,0
+Jonglei,SS03,Ayod,SS0302,1,1,1,1,1,invalid,1,0,1,1,1,1,invalid,0,0,1,1,1,1,0,1,1,1
+Jonglei,SS03,Bor South,SS0303,0,1,0,1,1,invalid,1,0,0,1,1,1,invalid,0,0,1,0,1,0,1,1,1,1
+Jonglei,SS03,Canal/Pigi,SS0304,1,1,1,0,0,invalid,1,0,0,1,1,1,invalid,1,0,1,1,1,0,1,1,1,1
+Jonglei,SS03,Duk,SS0305,0,1,0,0,0,invalid,1,0,0,1,1,1,invalid,0,0,1,1,1,0,1,1,1,1
+Jonglei,SS03,Fangak,SS0306,1,1,1,1,1,invalid,1,0,0,1,1,1,invalid,1,0,1,0,1,1,1,1,1,1
+Jonglei,SS03,Nyirol,SS0307,1,1,1,1,0,invalid,1,0,0,1,1,1,invalid,1,0,1,1,0,1,1,1,1,1
+Jonglei,SS03,Pibor,SS0308,1,1,1,1,0,invalid,1,0,1,1,1,1,invalid,0,0,1,1,0,1,1,1,1,1
+Jonglei,SS03,Pochalla,SS0309,0,1,1,1,1,invalid,1,0,1,0,0,1,invalid,0,0,0,0,0,0,0,1,0,1
+Jonglei,SS03,Twic East,SS0310,1,0,0,1,1,invalid,1,0,0,1,0,1,invalid,0,0,1,0,1,0,0,1,1,0
+Jonglei,SS03,Uror,SS0311,1,1,1,1,1,invalid,1,0,1,1,1,1,invalid,1,0,1,1,1,0,1,1,1,1
+Lakes,SS04,Awerial,SS0401,1,1,0,1,0,invalid,1,1,0,1,0,1,invalid,0,0,1,0,1,0,1,0,1,0
+Lakes,SS04,Cueibet,SS0402,1,1,1,1,0,invalid,1,1,0,0,1,1,invalid,0,0,0,1,0,0,0,0,1,1
+Lakes,SS04,Rumbek Centre,SS0403,1,1,0,1,0,invalid,1,1,0,0,1,1,invalid,0,0,0,0,0,0,0,0,1,0
+Lakes,SS04,Rumbek East,SS0404,1,1,0,0,1,invalid,1,1,0,0,0,1,invalid,0,0,0,1,0,0,0,0,1,1
+Lakes,SS04,Rumbek North,SS0405,1,1,0,0,0,invalid,1,0,0,0,0,1,invalid,0,0,0,0,0,0,0,0,1,1
+Lakes,SS04,Wulu,SS0406,0,1,0,0,0,invalid,1,1,0,0,0,1,invalid,0,0,0,0,0,0,0,0,0,1
+Lakes,SS04,Yirol East,SS0407,1,1,0,1,0,invalid,1,0,0,1,0,1,invalid,0,0,1,1,1,0,1,0,1,1
+Lakes,SS04,Yirol West,SS0408,0,1,1,0,1,invalid,1,1,0,1,0,1,invalid,0,0,1,1,1,0,0,0,1,1
+Northern Bahr el Ghazal,SS05,Aweil Centre,SS0501,1,1,1,0,0,invalid,1,0,1,1,0,1,invalid,1,1,1,0,0,1,0,1,0,1
+Northern Bahr el Ghazal,SS05,Aweil East,SS0502,0,1,0,1,1,invalid,0,0,1,1,0,1,invalid,1,1,1,0,0,0,1,1,1,1
+Northern Bahr el Ghazal,SS05,Aweil North,SS0503,0,1,1,1,1,invalid,1,1,1,1,0,1,invalid,1,1,1,1,0,1,1,1,1,1
+Northern Bahr el Ghazal,SS05,Aweil South,SS0504,1,1,0,0,1,invalid,1,0,1,1,0,1,invalid,0,0,1,0,0,0,1,1,1,0
+Northern Bahr el Ghazal,SS05,Aweil West,SS0505,1,1,0,0,1,invalid,1,1,1,1,0,1,invalid,1,1,1,0,0,1,1,1,0,0
+Unity,SS06,Abiemnhom,SS0601,0,0,0,1,0,invalid,0,0,0,0,0,1,invalid,0,1,0,0,1,1,1,1,0,1
+Unity,SS06,Guit,SS0602,1,1,1,1,1,invalid,1,0,0,1,0,1,invalid,0,1,1,1,1,1,1,1,1,1
+Unity,SS06,Koch,SS0603,1,1,1,1,1,invalid,1,0,1,1,0,1,invalid,0,1,1,1,1,1,0,1,1,1
+Unity,SS06,Leer,SS0604,0,1,1,1,1,invalid,1,0,1,1,0,1,invalid,0,0,1,0,1,1,1,1,1,1
+Unity,SS06,Mayendit,SS0605,0,0,1,0,1,invalid,1,0,1,0,0,1,invalid,0,0,0,0,1,1,1,1,1,1
+Unity,SS06,Mayom,SS0606,0,1,0,0,1,invalid,0,0,1,1,1,1,invalid,0,1,1,1,1,0,1,1,1,1
+Unity,SS06,Panyijiar,SS0607,0,1,0,0,1,invalid,1,0,1,1,0,1,invalid,0,0,1,1,1,1,1,1,1,1
+Unity,SS06,Pariang,SS0608,0,1,1,0,1,invalid,1,0,0,1,1,1,invalid,1,1,1,0,1,1,1,1,1,1
+Unity,SS06,Rubkona,SS0609,0,0,1,0,1,invalid,0,0,0,1,0,1,invalid,0,1,1,1,1,1,1,1,1,0
+Upper Nile,SS07,Baliet,SS0701,1,1,1,0,0,invalid,1,0,1,1,0,1,invalid,1,0,1,1,0,0,1,1,0,1
+Upper Nile,SS07,Fashoda,SS0702,0,0,0,1,0,invalid,1,0,0,1,0,1,invalid,1,1,1,0,0,0,1,1,1,1
+Upper Nile,SS07,Longochuk,SS0703,1,0,1,0,0,invalid,1,0,0,0,0,1,invalid,1,0,0,1,0,1,0,1,0,1
+Upper Nile,SS07,Luakpiny/Nasir,SS0704,0,1,1,0,1,invalid,1,0,1,1,1,1,invalid,1,0,1,1,0,0,1,1,1,1
+Upper Nile,SS07,Maban,SS0705,1,1,1,0,0,invalid,1,0,0,1,0,1,invalid,1,1,1,1,0,1,1,1,1,1
+Upper Nile,SS07,Maiwut,SS0706,0,0,1,0,0,invalid,1,1,0,1,0,1,invalid,1,0,1,1,0,1,0,1,0,1
+Upper Nile,SS07,Malakal,SS0707,1,0,0,1,1,invalid,1,0,0,1,0,1,invalid,1,1,1,0,0,1,1,1,0,0
+Upper Nile,SS07,Manyo,SS0708,1,1,1,1,0,invalid,1,0,0,1,0,1,invalid,1,1,1,0,0,1,1,1,0,1
+Upper Nile,SS07,Melut,SS0709,1,1,1,1,0,invalid,1,0,0,1,0,1,invalid,1,1,1,1,0,0,1,1,1,0
+Upper Nile,SS07,Panyikang,SS0710,1,1,1,0,1,invalid,1,0,0,1,1,1,invalid,1,1,1,1,0,0,0,1,1,0
+Upper Nile,SS07,Renk,SS0711,0,0,1,1,0,invalid,1,0,1,1,0,1,invalid,1,1,1,1,1,1,1,1,0,0
+Upper Nile,SS07,Ulang,SS0712,1,1,1,0,0,invalid,1,0,0,1,1,1,invalid,1,0,1,1,0,0,1,1,1,1
+Warrap,SS08,Gogrial East,SS0801,0,1,1,0,1,invalid,0,0,1,1,0,1,invalid,0,0,1,1,0,1,1,1,1,1
+Warrap,SS08,Gogrial West,SS0802,1,1,0,0,1,invalid,0,0,1,1,0,1,invalid,0,0,1,0,0,0,0,1,1,0
+Warrap,SS08,Tonj East,SS0803,1,1,1,0,0,invalid,1,0,1,0,1,1,invalid,0,0,0,1,1,0,1,1,1,1
+Warrap,SS08,Tonj North,SS0804,1,1,0,0,1,invalid,1,0,1,1,1,1,invalid,0,0,1,1,1,0,0,1,1,1
+Warrap,SS08,Tonj South,SS0805,0,1,0,1,0,invalid,1,1,1,0,1,1,invalid,0,0,0,1,1,1,1,1,1,0
+Warrap,SS08,Twic,SS0806,0,1,0,0,1,invalid,0,0,1,1,1,1,invalid,0,0,1,0,0,0,1,1,1,1
+Western Bahr el Ghazal,SS09,Jur River,SS0901,0,0,0,0,0,invalid,1,1,1,1,0,1,invalid,0,0,1,1,0,0,0,0,1,0
+Western Bahr el Ghazal,SS09,Raga,SS0902,0,1,1,0,0,invalid,0,1,0,0,0,1,invalid,1,1,0,0,0,1,0,0,0,0
+Western Bahr el Ghazal,SS09,Wau,SS0903,0,0,0,1,0,invalid,1,0,0,1,0,1,invalid,0,0,1,0,0,0,0,0,0,0
+Western Equatoria,SS10,Ezo,SS1001,1,0,1,0,0,invalid,1,1,1,0,0,0,invalid,0,0,0,0,1,1,0,0,0,0
+Western Equatoria,SS10,Ibba,SS1002,1,0,0,0,0,invalid,1,1,0,0,0,0,invalid,0,0,0,1,1,0,0,0,0,1
+Western Equatoria,SS10,Maridi,SS1003,1,0,0,1,0,invalid,1,1,0,0,0,0,invalid,0,0,0,0,1,0,0,0,0,1
+Western Equatoria,SS10,Mundri East,SS1004,0,0,1,0,0,invalid,1,1,0,0,0,0,invalid,0,0,0,0,1,0,0,0,0,1
+Western Equatoria,SS10,Mundri West,SS1005,0,0,0,1,0,invalid,1,1,0,0,0,0,invalid,0,0,0,0,1,0,0,0,0,1
+Western Equatoria,SS10,Mvolo,SS1006,0,1,0,0,0,invalid,1,1,0,0,0,0,invalid,0,0,0,0,0,1,0,0,0,1
+Western Equatoria,SS10,Nagero,SS1007,1,1,1,1,0,invalid,0,1,0,0,0,0,invalid,0,0,0,0,0,0,0,0,0,1
+Western Equatoria,SS10,Nzara,SS1008,1,0,0,1,0,invalid,1,1,0,0,0,0,invalid,0,0,0,0,0,0,0,0,0,0
+Western Equatoria,SS10,Tambura,SS1009,1,0,1,1,0,invalid,0,1,1,0,1,0,invalid,0,0,0,0,1,0,0,0,0,0
+Western Equatoria,SS10,Yambio,SS1010,1,0,0,1,0,invalid,1,1,0,0,1,0,invalid,0,0,0,0,0,1,0,0,0,0
